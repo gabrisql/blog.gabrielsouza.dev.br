@@ -23,25 +23,25 @@ timezone:
 
 title: Blog Pessoal                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Blog pessoal do programador e eterno estudante.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Este é meu blog pessoal para postagens relacionadas com a minha jornada de programador e estudante.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://blog.gabrielsouza.dev.br'
 
 github:
-  username: github_username             # change to your github username
+  username: gabrielsdesouza            # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: gabrisdesouza         # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Gabreil Silva de Souza
+  email: eu@gabrielsouza.dev.br             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage

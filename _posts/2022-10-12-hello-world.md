@@ -1,6 +1,6 @@
 ---
 title: Olá Mundo!
-author: Gabriel Souza
+author: gabrielsdesouza
 date: 2022-10-12 23:38:00 +0300
 categories: [Sobre Mim]
 tags: [hello-world, about-me]

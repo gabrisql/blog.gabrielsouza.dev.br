@@ -118,7 +118,7 @@ assets:
 pwa:
   enabled: true   # the option for PWA feature
 
-paginate: 10
+paginate: 5
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -160,7 +160,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: /blog
+      path: https://raw.githubusercontent.com/gabrielsdesouza/cdn/main/blog/favicon.ico
     values:
       swcache: true
   - scope:

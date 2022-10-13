@@ -21,7 +21,7 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Blog Pessoal                          # the main title
+title: Blog do Dev                        # the main title
 
 tagline: Publicações da Jornada de um Programador   # it will display as the sub-title
 

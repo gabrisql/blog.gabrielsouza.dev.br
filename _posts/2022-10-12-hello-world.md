@@ -19,7 +19,7 @@ Pensei por um período em criar este blog no Blogger do Google, depois no Tumblr
 
 Até que eu descobri o GitHub Pages e o Jekyll e achei muito mais interessante do que as demais ferramentas para blogging.
 
-Aqui estou eu, habemus blog!
+Aqui estamos, habemus blog!
 
 Minhas habilidades com desenvolvimento podem ser checadas na minha página do GitHub.
 

@@ -21,7 +21,7 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Blog do Dev                  # the main title
+title: Gabre's Query Language # the main title
 
 tagline: Publicações da minha jornada na programação.   # it will display as the sub-title
 
@@ -32,23 +32,23 @@ description: >-                        # used by seo meta and the atom feed
 url: ''
 
 github:
-  username: gabrielsdesouza             # change to your github username
+  username: gabresql             # change to your github username
 
 twitter:
-  username: gabrisdesouza            # change to your twitter username
+  username: gabresql           # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Gabriel Souza
-  email: eu@gabrielsouza.dev.br             # change to your email address
+  email: message@gabrielsouza.dev.br             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/gabrisdesouza      # change to your twitter homepage
-    - https://github.com/gabrielsdesouza       # change to your github homepage
+    - https://twitter.com/gabresql     # change to your twitter homepage
+    - https://github.com/gabresql       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/gabresql
+    - https://www.linkedin.com/in/gabresql
 
 google_site_verification:               # fill in to your verification string
 
